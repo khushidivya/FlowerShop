@@ -39,3 +39,26 @@ header .logo{
     color: purple;
     font-weight: bolder;
 }
+
+header .logo span{
+    color:violet;
+}
+header .navbar a{
+    font-size: 2rem;
+    padding: 0 1.5rem;
+    color: rgb(99, 20, 99);
+}
+
+header .navbar a:hover{
+    color: palevioletred;
+}
+
+header .icons a{
+    font-size: 2.5rem;
+    color: blueviolet;
+    margin-left: 1.5rem;
+}
+
+header .icons a{
+    color: plum;
+}
